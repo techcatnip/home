@@ -10,19 +10,19 @@
     "link": "https://reference.techcat.cc/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "link": "https://www.techcat.cc/"
   },
   {
     "icon": "Book",
     "name": "网址集",
     "link": "https://web.imsyy.top/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.imsyy.top/"
   },
   {
     "icon": "Fire",
